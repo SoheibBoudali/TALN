@@ -1,1 +1,2 @@
-hehehe
+Bien entendu, il nous faut ouvrir le fichier avant tout. Vous pouvez utiliser le modewou le modea. Le premier écrase le contenu éventuel du fichier, alors que le second ajoute ce que l'on écrit à la fin du fichier. À vous de voir en fonction de vos besoins. Dans tous les cas, ces deux modes créent le fichier s'il n'existe pas. 22.2
+#hello ; jfefz , 
