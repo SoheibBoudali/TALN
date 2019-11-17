@@ -1,0 +1,1617 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Accueil
+  </title>
+  <meta content="" name="description"/>
+  <meta content="" name="title"/>
+  <meta content="OctoberCMS" name="author"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="OctoberCMS" name="generator"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/images/logo2.png" rel="icon" type="image/png"/>
+  <!--
+        <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    -->
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/font-awesome.min.css" rel="stylesheet"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/style.css" rel="stylesheet"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/magic.css" rel="stylesheet"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/jquery.fullpage.min.css" rel="stylesheet"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/owl.carousel.min.css" rel="stylesheet"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/owl.theme.default.min.css" rel="stylesheet"/>
+  <link href="https://www.usthb.dz/themes/usthb/assets/css/animate.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <!-- Content -->
+  <section id="layout-content">
+   <!-- ****************************************************************************************************  
+                                        MAIN WRAPPER javascript:;
+******************************************************************************************************-->
+   <div class="mySidenav">
+    <a class="inscription" href="#inscriptions" style="">
+     s'inscrire à L'USTHB
+    </a>
+    <a class="evenements" href="#news" style="">
+     évènements
+    </a>
+    <a class="contact" href="#" style="">
+     contact
+    </a>
+   </div>
+   <div id="fullpage">
+    <div class="wrapper section" data-anchor="slider">
+     <div class="wrapper-inner">
+      <!-- LOGO -->
+      <div class="logo logo-fr">
+       <a href="https://www.usthb.dz/fr">
+        <img alt="" src="https://www.usthb.dz/themes/usthb/assets/images/logo.png"/>
+       </a>
+      </div>
+      <!-- TOP BAR MENU BUTTON -->
+      <div class="hidden-md hidden-lg menu-toggle" style="right:0">
+       <a href="#">
+        <i class="fa fa-bars">
+        </i>
+       </a>
+      </div>
+      <!-- NAVBAR -->
+      <navbar class="hidden-xs hidden-sm">
+       <div class="top-menu">
+        <ul class="text-right">
+         <li>
+          <a href="https://ent.usthb.dz">
+           <i class="fa fa-lock">
+           </i>
+           ENT
+          </a>
+         </li>
+         <li>
+          <a href="https://mail.usthb.dz/mail">
+           <i class="fa fa-envelope">
+           </i>
+           WebMail
+          </a>
+         </li>
+         <li>
+          <a href="http://campusvirtuel.usthb.dz/">
+           <i class="fa fa-desktop">
+           </i>
+           Cours en ligne
+          </a>
+         </li>
+         <li>
+          <a href="http://bu.usthb.dz/">
+           <i class="fa fa-book">
+           </i>
+           BU
+          </a>
+         </li>
+         <li>
+          <form accept-charset="UTF-8" action="https://www.usthb.dz/fr" method="POST" role="form">
+           <input name="_session_key" type="hidden" value="JkxvahY66ruoH0LqFVj12Bww62oP4AUg1m2ZYwJn"/>
+           <input name="_token" type="hidden" value="E98crG68itFqBGkaIRUz6HBEf1Bwwcc57nGuxuY2"/>
+           <select class="form-control" data-request="onSwitchLocale" name="locale">
+            <option selected="" value="fr">
+             fr
+            </option>
+            <option value="ar">
+             ar
+            </option>
+            <option value="en">
+             en
+            </option>
+           </select>
+          </form>
+         </li>
+        </ul>
+       </div>
+       <div class="bottom-menu text-right">
+        <ul>
+         <li class="navbar-logo" style="padding: 0; float:left;">
+          <a href="https://www.usthb.dz/fr">
+           <img alt="" src="https://www.usthb.dz/themes/usthb/assets/images/logo2.png" style="width: 65px;"/>
+          </a>
+         </li>
+         <li class="first-nav-child">
+          <a href="https://www.usthb.dz/fr/page/1">
+           <span>
+            Université
+           </span>
+          </a>
+          <ul>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/42">
+             Présentation
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/44">
+             Fonctionnement
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/85">
+             Organes de l'USTHB
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/43">
+             Facultés
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/46">
+             Informations pratiques
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/54">
+             Activités culturelles et sportives
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/default">
+             Commission des Oeuvres Sociales
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="first-nav-child">
+          <a href="https://www.usthb.dz/fr/page/2">
+           <span>
+            Formation
+           </span>
+          </a>
+          <ul>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/6">
+             Offres de formation
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/41">
+             Comprendre le LMD
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/10">
+             S'inscrire à l'USTHB
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/11">
+             Stages
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/52">
+             Tutorat
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/63">
+             Insertion des diplomés
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/123">
+             Cycle Doctorat
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="first-nav-child">
+          <a href="https://www.usthb.dz/fr/page/947">
+           <span>
+            Recherche
+           </span>
+          </a>
+          <ul>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/92">
+             Laboratoire de Recherche
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/105">
+             Post graduation
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/106">
+             Activités de recherche
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/489">
+             Valorisation
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/529">
+             Bilans des laboratoires de recherche
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="first-nav-child">
+          <a href="https://www.usthb.dz/fr/page/55">
+           <span>
+            Coopération
+           </span>
+          </a>
+          <ul>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/81">
+             Coopération Internationale
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/88">
+             Projet Erasmus
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/83">
+             Conventions et Projets Nationaux
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/82">
+             Offre de bourses internationles
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="first-nav-child">
+          <a href="https://www.usthb.dz/fr/page/65">
+           <span>
+            Dossiers
+           </span>
+          </a>
+          <ul>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/67">
+             Plan de developpement
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/66">
+             Energie renouvelable
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/68">
+             Plan de Développement Informatique
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/968">
+             Appels d'offres
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="first-nav-child">
+          <a href="https://www.usthb.dz/fr/page/70">
+           <span>
+            Documentation
+           </span>
+          </a>
+          <ul>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/73">
+             Documentation en ligne
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.usthb.dz/fr/page/78">
+             Publications
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="http://repository.usthb.dz/">
+             Production Scientifique de l'USTHB
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.sndl.cerist.dz/">
+             SNDL
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="https://www.pnst.cerist.dz/index.php">
+             PNST
+            </a>
+           </li>
+           <li class="text-left">
+            <a href="http://www.bibliouniv.cerist.dz/">
+             BiblioUniv Algérie
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="hyperbutton first-nav-child">
+          <a href="#" style="color:#051f2d">
+           <i class="fa fa-search">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </navbar>
+      <!-- SLIDER -->
+      <!-- SLIDER -->
+      <div class="slider">
+       <ul class="slider-elements">
+        <li class="slider-element slider-image">
+         <img alt="" src="https://www.usthb.dz/themes/usthb/assets/images/s6.jpg"/>
+        </li>
+        <li class="slider-element slider-image">
+         <img alt="" src="https://www.usthb.dz/themes/usthb/assets/images/s7.jpg"/>
+        </li>
+        <li class="slider-element slider-image">
+         <img alt="" src="https://www.usthb.dz/themes/usthb/assets/images/s4.jpg"/>
+        </li>
+       </ul>
+       <div class="visible-md-block visible-lg-block wow fadeInDown headings headings-fr">
+        <h1>
+         Université
+         <br/>
+         des Sciences et de la Technologie
+         <br/>
+         Houari Boumediene
+         <br/>
+         <small class="c-test-inner">
+          Synergie entre Science et Technologie
+         </small>
+        </h1>
+        <br/>
+       </div>
+       <div class="hidden-md hidden-lg phone-headings">
+        <h1 class="c-test heading-tilt" data-tilt-glare="true" data-tilt-maxglare=".5">
+         Université
+         <br/>
+         des Sciences et de la Technologie
+         <br/>
+         Houari Boumediene
+        </h1>
+        <br/>
+       </div>
+       <div class="visible-md-block visible-lg-block slider-thumbs dotstyle dotstyle-fall text-center">
+        <ul>
+        </ul>
+       </div>
+      </div>
+      <!-- LATEST EVENTS -->
+      <div style="position: absolute;">
+       News
+      </div>
+      <div class="hidden-xs hidden-sm owl-carousel owl-theme latest-events latest-events-fr" style="position: absolute;">
+       <div class="item events-element">
+        <div class="details">
+         <a href="https://www.usthb.dz/fr/actu/432">
+          <h3>
+           Condoléance, Décès du Pr. Fatiha Bentahar l'un des piliers de la Faculté Génie Mecanique et Génie Procédés -USTHB
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="item events-element">
+        <div class="details">
+         <a href="https://www.usthb.dz/fr/actu/458">
+          <h3>
+           Projet Erasmus SM-WELD: Formation en économie du soudage
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="item events-element">
+        <div class="details">
+         <a href="https://www.usthb.dz/fr/actu/459">
+          <h3>
+           Sondage national pour l'utilisation de l'anglais dans l'enseignement supérieur et la recherche scientifique
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="item events-element">
+        <div class="details">
+         <a href="https://www.usthb.dz/fr/actu/461">
+          <h3>
+           Candidats retenus en Master1
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="item events-element">
+        <div class="details">
+         <a href="https://www.usthb.dz/fr/actu/447">
+          <h3>
+           Résultats du concours d’accès à la formation doctorale
+          </h3>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!--   section majors     -->
+    <div class="majors-section section" data-anchor="majors">
+     <div class="AvisIdentif" style="background:#4E5B31;">
+      <div class="roundedImageleft" style="border-color: #4E5B31;">
+       <img alt="1" height="350" src="/storage/app/media/KACISAMY.jpg" width="300"/>
+      </div>
+      <div class="Avis">
+       J'ai choisi de m'inscrire à l'USTHB pour étudier les Sciences Exactes et me spécialiser dans la physique, formation que l'USTHB offre, l'USTHB constituait pour moi un cadre idéal pour cette formation et je n'ai pas été déçu et même agréablement surpris par le professionnalisme des enseignants, présents et à l'écoute.
+       <div class="identif">
+        KACI Samy, Major de promotion 2018, Sciences de la Matière
+       </div>
+      </div>
+     </div>
+     <!-- <div class="AvisIdentif" style="background:#FFCD00;">
+  <div class="roundedImageright" style="border-color:#FFCD00;">
+    <img src="/storage/app/media/IMG_20180707.jpg" height="350" width="300" alt="1"/>
+  </div>
+
+  <div class="Avis" style="color:#000;">Je pensais que les études n'étaient pas simples et les examens plutôt difficiles, mais ce n'est absolument pas le cas du moment ou on fournit un minimum d'effort. C'est quand même des études universitaires.
+      <div class="identif">	Hala Assia Hachemane, Major de promotion 2018<br>Sciences de la Matiere  </div>
+  </div>
+</div> 
+
+<div class="AvisIdentif" style="background:#9E5330;">
+  <div class="roundedImageleft" style="border-color: #9E5330;">
+    <img src="KACISAMY.jpg" height="350" width="300"/>
+  </div>
+
+  <div class="Avis"> Ma perception était que les études n'étaient pas simples et les examens plutôt difficiles, mais ce n'est absolument pas le cas du moment ou on fournit un minimum d'effort. ça reste une université quand même.
+     <div class="identif">	KACI Samy, Major de promotion 2018<br>Sciences de la Matiere </div>
+  </div>
+</div> -->
+    </div>
+    <div class="news-section section" data-anchor="news">
+     <div class="col-md-2">
+     </div>
+     <div class="col-md-10">
+      <div class="subheader-dark text-center wow slideInLeft">
+       <h1>
+        événements et Actualités
+       </h1>
+       <div class="line">
+       </div>
+      </div>
+      <div class="news owl-carousel owl-theme news-carousel">
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details" style="background: linear-gradient(rgba(0, 0, 0, 0.85098), rgba(0, 0, 0, 0.282353)), url('https://www.usthb.dz/storage/app/uploads/public/5db/7f4/7de/5db7f47de06d8551158246.gif') center; -webkit-background-size: cover, cover;
+                                background-size: cover, cover;">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>28/10/2019</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/457">
+            DMV 2019
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/457">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>15/06/2019</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/444">
+            The International Conference on Biotechnology and Cancer
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/444">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>18/06/2019</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/446">
+            Le 9ème Séminaire National sur le Laser et ses Applications
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/446">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details" style="background: linear-gradient(rgba(0, 0, 0, 0.85098), rgba(0, 0, 0, 0.282353)), url('https://www.usthb.dz/storage/app/uploads/public/5b2/b7b/f3a/5b2b7bf3ae70d548899937.png') center; -webkit-background-size: cover, cover;
+                                background-size: cover, cover;">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>15/05/2018</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/371">
+            La plateforme du Campus Avicenne
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/371">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details" style="background: linear-gradient(rgba(0, 0, 0, 0.85098), rgba(0, 0, 0, 0.282353)), url('https://www.usthb.dz/storage/app/uploads/public/5c6/3f0/fbb/5c63f0fbbe301015999126.jpg') center; -webkit-background-size: cover, cover;
+                                background-size: cover, cover;">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>22/01/2019</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/421">
+            Colloque International Modélisation Stochastique et Statistique MSS 2019
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/421">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>02/10/2019</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/453">
+            The 3rd Seminar in Engineering, Health and Analysis SEHA 2020
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/453">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details" style="background: linear-gradient(rgba(0, 0, 0, 0.85098), rgba(0, 0, 0, 0.282353)), url('https://www.usthb.dz/storage/app/uploads/public/5dc/3e2/f31/5dc3e2f314c0e642730559.png') center; -webkit-background-size: cover, cover;
+                                background-size: cover, cover;">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>06/11/2019</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/460">
+            Le salon International du Bâtiment, des Matériaux de Construction et des Travaux Publics : BATIMATEC 2020
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/460">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="news-element item" data-rellax-speed="6">
+        <div class="news-element-inner text-left">
+         <div class="col-xs-12 col-md-4 details" style="background: linear-gradient(rgba(0, 0, 0, 0.85098), rgba(0, 0, 0, 0.282353)), url('https://www.usthb.dz/storage/app/uploads/public/5b0/546/4c8/5b05464c80433347911997.png') center; -webkit-background-size: cover, cover;
+                                background-size: cover, cover;">
+          <span class="rubon">
+           Actualités
+          </span>
+          <!-- <h4>16/05/2018</h4> -->
+          <h3>
+           <a href="https://www.usthb.dz/fr/actu/373">
+            Le programme Horizon 2020 : nouveaux enjeux, nouveaux objectifs
+           </a>
+          </h3>
+          <div class="action hidden-xs hidden-sm visible-md visible-lg">
+           <a href="https://www.usthb.dz/fr/actu/373">
+            <i class="fa fa-arrow-circle-o-right">
+            </i>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-md-12 text-center wow fadeInUp">
+       <a class="btn-primary-style" href="https://www.usthb.dz/fr/actus">
+        Voir toutes les actualités
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="faculties section" data-anchor="faculties">
+     <div class="col-md-2">
+     </div>
+     <div class="col-md-10">
+      <div class="subheader-dark text-center wow slideInLeft">
+       <h1>
+        Facultés
+       </h1>
+       <div class="line">
+       </div>
+      </div>
+      <ul id="hexGrid">
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fmath.usthb.dz/" target="blank">
+          <span class="shape">
+          </span>
+          <h1>
+           Faculté de Mathématiques
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fgc.usthb.dz/" target="_blank">
+          <span class="shape">
+          </span>
+          <h1 class="red">
+           Faculté de
+           <br/>
+           Génie Civil
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="#">
+          <!-- <img src="themes/usthb/assets/images/charte.jpg" alt="" />  -->
+          <span class="shape">
+          </span>
+          <h1>
+           <img alt="" src="/themes/usthb/assets/images/logo.png"/>
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fst.usthb.dz/" target="_blank">
+          <span class="shape">
+          </span>
+          <h1 class="red">
+           Faculté des Sciences de la terre, Géographie et Aménagement du Territoire
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fphy.usthb.dz/" target="_blank">
+          <span class="shape">
+          </span>
+          <h1>
+           Faculté de Physique
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fchimie.usthb.dz/" target="_blank">
+          <span class="shape">
+          </span>
+          <h1>
+           Faculté de Chimie
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fgmgp.usthb.dz/" target="_blank">
+          <span class="shape">
+          </span>
+          <h1 class="red">
+           Faculté de
+           <br/>
+           Génie Mécanique et Génie de Procédés
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fei.usthb.dz/" target="_blank">
+          <span class="shape">
+          </span>
+          <h1 class="red">
+           Faculté d'Electronique et d'Informatique
+          </h1>
+         </a>
+        </div>
+       </li>
+       <li class="hex wow slideInLeft">
+        <div class="hexIn">
+         <a class="hexLink" href="https://fbiol.usthb.dz/" target="_blank">
+          <span class="shape">
+          </span>
+          <h1>
+           Faculté des
+           <br/>
+           Sciences Biologiques
+          </h1>
+         </a>
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="inscriptions section" data-anchor="inscriptions">
+     <div class="col-md-12">
+      <!--  <div class="subheader text-center wow slideInLeft">
+       <h1>Inscription à l'USTHB</h1>
+       <br> -->
+      <!-- <div class="black">
+            Plus de 40 000 étudiants s'inscrivent ou se réinscrivent chaque année à l'USTHB. Nos services mettent tout en oeuvre pour que ces démarches se passent au mieux pour chacun d'entre eux, quel que soit leur statut. Lisez attentivement les pages ci-dessous et vous trouverez toutes les informations dont vous aurez besoin pour compléter votre inscription !</div> -->
+      <!-- </div> -->
+      <div class="row">
+       <div class="col-xs-12 col-md-2 insc-element-parent">
+        <div class="row insc-element">
+         <div class="image-wrapper">
+          <img alt="" class="inscrit" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"/>
+         </div>
+         <a class="licence" href="/page/724" id="insc-1">
+          <h3>
+           <span class="black">
+            Bacheliers, futurs bacheliers
+           </span>
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="col-xs-12 col-md-2 insc-element-parent">
+        <div class="row insc-element">
+         <div class="image-wrapper">
+          <img alt="" class="inscrit" src="https://i2.wp.com/blogs.microsoft.com/uploads/2016/03/March-18_Microsoft-BAM-Students-020.jpg?ssl=1"/>
+         </div>
+         <a class="master" href="/page/952" id="insc-2">
+          <h3>
+           <span class="black">
+            Étudiants de l'USTHB
+           </span>
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="col-xs-12 col-md-2 insc-element-parent">
+        <div class="row insc-element">
+         <div class="image-wrapper">
+          <img alt="" class="inscrit" src="https://thekharkivtimes.com/wp-content/uploads/2016/07/www.huffingtonpost.co_.uk_.jpg"/>
+         </div>
+         <a class="master" href="/page/952" id="insc-3">
+          <h3>
+           <span class="black">
+            Étudiants extérieurs
+           </span>
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="col-xs-12 col-md-2 insc-element-parent">
+        <div class="row insc-element">
+         <div class="image-wrapper">
+          <img alt="" class="inscrit" src="https://images.pexels.com/photos/789703/pexels-photo-789703.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"/>
+         </div>
+         <a class="licence" href="#" id="insc-4">
+          <h3>
+           <span class="black">
+            Étudiants internationaux
+           </span>
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="col-xs-12 col-md-2 insc-element-parent">
+        <div class="row insc-element">
+         <div class="image-wrapper">
+          <img alt="" class="inscrit" src="https://steinhardt.nyu.edu/site/ataglance/files/2016/03/Collegestudents.jpg"/>
+         </div>
+         <a class="master" href="/actu/402" id="insc-5">
+          <h3>
+           <span class="black">
+            Inscription en doctorat
+           </span>
+          </h3>
+         </a>
+        </div>
+       </div>
+       <div class="col-xs-12 col-md-2 insc-element-parent">
+        <div class="row insc-element">
+         <div class="image-wrapper">
+          <img alt="" class="inscrit" src="https://images.pexels.com/photos/518244/pexels-photo-518244.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"/>
+         </div>
+         <a class="master" href="/page/951" id="insc-6">
+          <h3>
+           <span class="black">
+            Formation Continue
+           </span>
+          </h3>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="numbers section">
+     <div class="col-md-2">
+     </div>
+     <div class="col-md-10">
+      <div class="subheader-dark text-center wow slideInLeft" style="margin-bottom:20px">
+       <h1>
+        L'USTHB en chiffres
+       </h1>
+       <div class="line">
+       </div>
+      </div>
+      <div class="col-md-3 wow fadeInUp">
+       <div class="col-md-12 numbers-element">
+        <a class="numbers-link text-center">
+         <span class="nbr-icon">
+          <i class="fa fa-users">
+          </i>
+         </span>
+         <h3 class="count">
+          41000
+         </h3>
+         <h2>
+          Etudiants
+         </h2>
+        </a>
+       </div>
+      </div>
+      <div class="col-md-3 wow fadeInUp">
+       <div class="col-md-12 numbers-element">
+        <a class="numbers-link text-center">
+         <span class="nbr-icon">
+          <i class="fa fa-briefcase">
+          </i>
+         </span>
+         <h3>
+          <span class="count">
+           2000
+          </span>
+         </h3>
+         <h2>
+          Enseignants
+         </h2>
+        </a>
+       </div>
+      </div>
+      <div class="col-md-3 wow fadeInUp">
+       <div class="col-md-12 numbers-element">
+        <a class="numbers-link text-center">
+         <span class="nbr-icon">
+          <i class="fa fa-folder-open">
+          </i>
+         </span>
+         <h3 class="count">
+          200
+         </h3>
+         <h2>
+          Offres de formation
+         </h2>
+        </a>
+       </div>
+      </div>
+      <div class="col-md-3 wow fadeInUp">
+       <div class="col-md-12 numbers-element">
+        <a class="numbers-link text-center">
+         <span class="nbr-icon">
+          <i class="fa fa-graduation-cap">
+          </i>
+         </span>
+         <h3 class="count">
+          35000
+         </h3>
+         <h2>
+          Diplomés
+         </h2>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <footer class="section">
+     <div class="row">
+      <div class="col-xs-12 col-md-4 col-md-push-8">
+       <div class="col-xs-12">
+        <h3>
+         Accès Direct
+        </h3>
+        <p class="text-left">
+        </p>
+        <ul class="contacts text-left">
+         <li>
+          <a href="/page/870">
+           Suivi des enseignements
+          </a>
+         </li>
+         <a href="/page/870">
+          <!-- <li><a href="/page/871">Appel d'offre</li> -->
+         </a>
+         <li>
+          <a href="/page/870">
+          </a>
+          <a href="/page/46">
+           Informations Pratiques
+          </a>
+         </li>
+         <a href="/page/46">
+         </a>
+         <li>
+          <a href="/page/46">
+          </a>
+          <a href="/page/277">
+           Se rendre à l'USTHB
+          </a>
+         </li>
+         <a href="/page/277">
+         </a>
+         <li>
+          <a href="/page/277">
+          </a>
+          <a href="/page/434">
+           Charte d'Ethique et de Déontologie Universitaire
+          </a>
+         </li>
+         <a href="/page/434">
+         </a>
+         <li>
+          <a href="/page/434">
+          </a>
+          <a href="/page/481">
+           Centre des Ressources Informatiques
+          </a>
+         </li>
+         <a href="/page/481">
+         </a>
+         <li>
+          <a href="/page/481">
+          </a>
+          <a href="https://bu.usthb.dz/" target="_blank">
+           Bibliothèque
+          </a>
+         </li>
+         <a href="https://bu.usthb.dz/" target="_blank">
+         </a>
+         <li>
+          <a href="https://bu.usthb.dz/" target="_blank">
+          </a>
+          <a href="https://repository.usthb.dz/" target="_blank">
+           DSpace:Thèses locales
+          </a>
+         </li>
+         <a href="https://repository.usthb.dz/" target="_blank">
+         </a>
+         <li>
+          <a href="https://repository.usthb.dz/" target="_blank">
+          </a>
+          <a href="https://vrpgrshu.usthb.dz/" target="_blank">
+           Vice Rectorat PGHURS
+          </a>
+         </li>
+         <a href="https://vrpgrshu.usthb.dz/" target="_blank">
+         </a>
+         <li>
+          <a href="https://vrpgrshu.usthb.dz/" target="_blank">
+          </a>
+          <a href="/page/869">
+           Association des Anciens Etudiants de l"USTHB
+          </a>
+         </li>
+         <a href="/page/869">
+         </a>
+         <li>
+          <a href="/page/869">
+          </a>
+          <a href="/page/868">
+           Centre des langues
+          </a>
+         </li>
+         <a href="/page/868">
+         </a>
+         <li>
+          <a href="/page/868">
+          </a>
+          <a href="https://campusvirtuel.usthb.dz/login/">
+           Cours en ligne
+          </a>
+         </li>
+         <a href="https://campusvirtuel.usthb.dz/login/">
+         </a>
+         <li>
+          <a href="https://campusvirtuel.usthb.dz/login/">
+          </a>
+          <a href="/page/950">
+           centre d'audio-visuel et d'impression (CAVI)
+          </a>
+         </li>
+         <a href="/page/950">
+         </a>
+         <li>
+          <a href="/page/950">
+          </a>
+          <a href="https://www.rap.usthb.dz/">
+           Revue Algérienne de Physique (RAP)
+          </a>
+         </li>
+         <a href="https://www.rap.usthb.dz/">
+          <!--<li><a href="#"><i class="fa fa-youtube"></i></a></li>-->
+         </a>
+        </ul>
+        <a href="https://www.rap.usthb.dz/">
+        </a>
+       </div>
+       <a href="https://www.rap.usthb.dz/">
+       </a>
+      </div>
+      <a href="https://www.rap.usthb.dz/">
+      </a>
+      <div class="col-xs-12 col-md-4">
+       <a href="https://www.rap.usthb.dz/">
+       </a>
+       <div class="col-xs-12">
+        <a href="https://www.rap.usthb.dz/">
+         <h3>
+          Coordonnées
+         </h3>
+        </a>
+        <ul class="contacts text-left">
+         <a href="https://www.rap.usthb.dz/">
+         </a>
+         <li>
+          <a href="https://www.rap.usthb.dz/">
+          </a>
+          <a href="#">
+           <i class="fa fa-phone">
+           </i>
+           Tel   +213 (0) 21 24 79 50 à 60
+          </a>
+         </li>
+         <li>
+          <a href="#">
+           <i class="fa fa-fax">
+           </i>
+           Fax   +213 (0) 21 24 79 04
+          </a>
+         </li>
+         <li>
+          <a href="#">
+           <i class="fa fa-map">
+           </i>
+           BP 32 Bab Ezzouar, 16111 - ALGER.
+          </a>
+         </li>
+         <li>
+          <a href="#">
+           <i class="fa fa-envelope">
+           </i>
+           contact@usthb.dz
+          </a>
+         </li>
+         <li>
+          <a href="https://www.facebook.com/Universit%C3%A9-des-Sciences-et-de-la-Technologie-Houari-Boumediene-709109182474033/">
+           <i class="fa fa-facebook">
+           </i>
+          </a>
+          <a href="https://twitter.com/usthbcab">
+           <i class="fa fa-twitter">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="col-xs-12 col-md-4 col-md-pull-8">
+       <div class="col-xs-12">
+        <h3>
+         Liens directs
+        </h3>
+        <p class="text-left">
+        </p>
+        <ul class="contacts text-left">
+         <li>
+          <a href="https://ent.usthb.dz/">
+           Espace numérique de travail
+          </a>
+         </li>
+         <li>
+          <a href="https://mail.usthb.dz/">
+           Messagerie
+          </a>
+         </li>
+         <!-- <li><a href="#">Calendrier</a></li>
+                        <li><a href="#">Events</a></li>
+                        <li><a href="#">News</a></li>-->
+        </ul>
+       </div>
+       <div class="col-xs-12">
+        <h3>
+         Liens utiles
+        </h3>
+        <p class="text-left">
+        </p>
+        <ul class="contacts text-left">
+         <li>
+          <a href="https://www.mesrs.dz/">
+           MESRS
+          </a>
+         </li>
+         <a href="https://www.mesrs.dz/">
+         </a>
+         <li>
+          <a href="https://www.mesrs.dz/">
+          </a>
+          <a href="https://www.nasr.dz/">
+           DGRSDT
+          </a>
+         </li>
+         <a href="https://www.nasr.dz/">
+         </a>
+         <li>
+          <a href="https://www.nasr.dz/">
+          </a>
+          <a href="https://www.umbb.dz/crc/">
+           CRC
+          </a>
+         </li>
+         <a href="https://www.umbb.dz/crc/">
+         </a>
+         <li>
+          <a href="https://www.umbb.dz/crc/">
+          </a>
+          <a href="https://www.usthb.dz">
+          </a>
+         </li>
+         <a href="https://www.usthb.dz">
+          <!-- <li><a href="http://dz.refer.org/">CNF Alger</li> -->
+         </a>
+        </ul>
+        <a href="https://www.usthb.dz">
+        </a>
+       </div>
+       <a href="https://www.usthb.dz">
+       </a>
+      </div>
+      <a href="https://www.usthb.dz">
+      </a>
+     </div>
+     <a href="https://www.usthb.dz">
+     </a>
+    </footer>
+    <a href="https://www.usthb.dz">
+     <!-- ****************************************************************************************************  
+                                                SEARCH BAR WRAPPER
+******************************************************************************************************-->
+    </a>
+    <div class="searchbar-layer" style="display:none;">
+     <a href="https://www.usthb.dz">
+     </a>
+     <div class="searchbar-input">
+      <a href="https://www.usthb.dz">
+      </a>
+      <form action="https://www.usthb.dz/fr/searchresults" method="get">
+       <a href="https://www.usthb.dz">
+        <input name="q" placeholder="Recherche ..." type="text"/>
+       </a>
+       <a href="#">
+        <button type="submit">
+         <i class="fa fa-search">
+         </i>
+        </button>
+       </a>
+      </form>
+     </div>
+    </div>
+    <!-- ****************************************************************************************************  
+                                            Phone Menu MENU WRAPPER
+******************************************************************************************************-->
+    <div class="hidden-md hidden-lg phone-menu-wrapper" style="display:none;">
+     <ul class="main-phone-nav">
+      <li class="main-phone-nav-elements">
+       <a class="closePhoneMenu" href="#">
+        <i class="fa fa-times">
+        </i>
+       </a>
+      </li>
+      <li class="main-phone-nav-elements">
+       <a href="#">
+        Université
+       </a>
+       <ul class="secondary-phone-nav" style="display:none">
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/42">
+          Présentation
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/44">
+          Fonctionnement
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/85">
+          Organes de l'USTHB
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/43">
+          Facultés
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/46">
+          Informations pratiques
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/54">
+          Activités culturelles et sportives
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/default">
+          Commission des Oeuvres Sociales
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="main-phone-nav-elements">
+       <a href="#">
+        Formation
+       </a>
+       <ul class="secondary-phone-nav" style="display:none">
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/6">
+          Offres de formation
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/41">
+          Comprendre le LMD
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/10">
+          S'inscrire à l'USTHB
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/11">
+          Stages
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/52">
+          Tutorat
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/63">
+          Insertion des diplomés
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/123">
+          Cycle Doctorat
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="main-phone-nav-elements">
+       <a href="#">
+        Recherche
+       </a>
+       <ul class="secondary-phone-nav" style="display:none">
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/92">
+          Laboratoire de Recherche
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/105">
+          Post graduation
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/106">
+          Activités de recherche
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/489">
+          Valorisation
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/529">
+          Bilans des laboratoires de recherche
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="main-phone-nav-elements">
+       <a href="#">
+        Coopération
+       </a>
+       <ul class="secondary-phone-nav" style="display:none">
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/81">
+          Coopération Internationale
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/88">
+          Projet Erasmus
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/83">
+          Conventions et Projets Nationaux
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/82">
+          Offre de bourses internationles
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="main-phone-nav-elements">
+       <a href="#">
+        Dossiers
+       </a>
+       <ul class="secondary-phone-nav" style="display:none">
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/67">
+          Plan de developpement
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/66">
+          Energie renouvelable
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/68">
+          Plan de Développement Informatique
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/968">
+          Appels d'offres
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="main-phone-nav-elements">
+       <a href="#">
+        Documentation
+       </a>
+       <ul class="secondary-phone-nav" style="display:none">
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/73">
+          Documentation en ligne
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/78">
+          Publications
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/default">
+          Production Scientifique de l'USTHB
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/default">
+          SNDL
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/default">
+          PNST
+         </a>
+        </li>
+        <li class="secondary-phone-nav-elements">
+         <a href="https://www.usthb.dz/fr/page/default">
+          BiblioUniv Algérie
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="first-nav-child">
+       <a href="#" style="margin:5px 20px; font-size:1.2em;">
+        <i class="fa fa-lock">
+        </i>
+       </a>
+       <a href="#" style="margin:5px 20px; font-size:1.2em;">
+        <i class="fa fa-envelope">
+        </i>
+       </a>
+      </li>
+      <li class="hyperbutton">
+       <a href="#">
+        <i class="fa fa-search">
+        </i>
+       </a>
+      </li>
+      <li class="first-nav-child">
+       <form accept-charset="UTF-8" action="https://www.usthb.dz/fr" method="POST" role="form">
+        <input name="_session_key" type="hidden" value="JkxvahY66ruoH0LqFVj12Bww62oP4AUg1m2ZYwJn"/>
+        <input name="_token" type="hidden" value="E98crG68itFqBGkaIRUz6HBEf1Bwwcc57nGuxuY2"/>
+        <select class="form-control" data-request="onSwitchLocale" name="locale">
+         <option selected="" value="fr">
+          fr
+         </option>
+         <option value="ar">
+          ar
+         </option>
+         <option value="en">
+          en
+         </option>
+        </select>
+       </form>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="hidden-xs hidden-sm sections-navigation">
+    <div class="hidden-xs hidden-sm sections-navigation-pipe">
+     <h3>
+      <span>
+       <i class="fa fa-list">
+       </i>
+      </span>
+      <!-- Sections -->
+     </h3>
+    </div>
+    <ul id="sections-menu">
+     <li data-menuanchor="slider">
+      <a href="#slider">
+       <span>
+        <i class="fa fa-rocket">
+        </i>
+       </span>
+       <div class="sections-nav-element">
+        Top
+       </div>
+      </a>
+     </li>
+     <li data-menuanchor="majors">
+      <a href="#majors">
+       <span>
+        <i class="fa fa-mortar-board">
+        </i>
+       </span>
+       <div class="sections-nav-element">
+        Majors de Promotion 2018
+       </div>
+      </a>
+      <!--<div  class="sections-nav-expansion">
+            </div> -->
+     </li>
+     <li data-menuanchor="news">
+      <a href="#news">
+       <span>
+        <i class="fa fa-paper-plane">
+        </i>
+       </span>
+       <div class="sections-nav-element">
+        Evénements et Actualités
+       </div>
+      </a>
+      <!--<div  class="sections-nav-expansion">
+            </div> -->
+     </li>
+     <li data-menuanchor="faculties">
+      <a href="#faculties">
+       <span>
+        <i class="fa fa-building">
+        </i>
+       </span>
+       <div class="sections-nav-element">
+        Facultés
+       </div>
+      </a>
+      <!-- <div  class="sections-nav-expansion">
+                <p></p>
+            </div> -->
+     </li>
+     <li data-menuanchor="inscriptions">
+      <a href="#inscriptions">
+       <span>
+        <i class="fa fa-mortar-board">
+        </i>
+       </span>
+       <div class="sections-nav-element">
+        Inscription à l'USTHB
+       </div>
+      </a>
+      <!-- <div  class="sections-nav-expansion">  <p></p> </div> -->
+     </li>
+     <li data-menuanchor="numbers">
+      <a href="#numbers">
+       <span>
+        <i class="fa fa-pie-chart">
+        </i>
+       </span>
+       <div class="sections-nav-element">
+        L'université en chiffres
+       </div>
+      </a>
+      <!-- <div  class="sections-nav-expansion">
+                <p></p>
+            </div>  -->
+     </li>
+    </ul>
+   </div>
+  </section>
+  <!-- Scripts -->
+  <script src="https://www.usthb.dz/themes/usthb/assets/js/jquery.js">
+  </script>
+  <script src="https://www.usthb.dz/combine/9acb5523c3b4c27248d8f615f2210192-1552390420">
+  </script>
+  <script src="https://www.usthb.dz/themes/usthb/assets/js/tilt.jquery.js">
+  </script>
+  <script>
+   new WOW().init();
+  </script>
+  <script src="/modules/system/assets/js/framework.js">
+  </script>
+  <script src="/modules/system/assets/js/framework.extras.js">
+  </script>
+  <link href="/modules/system/assets/css/framework.extras.css" property="stylesheet" rel="stylesheet"/>
+ </body>
+</html>

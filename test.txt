@@ -1,0 +1,11 @@
+<li data-menuanchor="slider">
+<a href="#slider">
+ <span>
+  <i class="fa fa-rocket">
+  </i>
+ </span>
+ <div class="sections-nav-element">
+  Top
+ </div>
+</a>
+</li>
