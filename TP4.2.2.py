@@ -18,5 +18,5 @@ diff=[]
 for index in range(1,len(PorterStemmerList)):
 	if PorterStemmerList[index]!=LancasterStemmerList[index]:
 		diff.append((PorterStemmerList[index],'==>',LancasterStemmerList[index]))
-print(diff)
+print(set(diff))
 print(len(diff))

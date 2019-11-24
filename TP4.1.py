@@ -24,3 +24,6 @@ def Tokenizer(text):
 	tokenizer = RegexpTokenizer(reg_ex)
 	return tokenizer.tokenize(text)
 print(Tokenizer(Load("Corpus.txt")))
+
+
+#ussuse
